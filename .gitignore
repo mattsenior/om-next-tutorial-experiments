@@ -1,0 +1,7 @@
+/.idea
+/projectFilesBackup
+/figwheel_server.log
+/target
+/resources/public/devcards/out
+/resources/public/js
+!/resources/public/js/main.js
